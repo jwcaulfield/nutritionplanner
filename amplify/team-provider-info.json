@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nutritionplanner-dev-155056-authRole",
+      "UnauthRoleArn": "arn:aws:iam::684100017705:role/amplify-nutritionplanner-dev-155056-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::684100017705:role/amplify-nutritionplanner-dev-155056-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-nutritionplanner-dev-155056-deployment",
+      "UnauthRoleName": "amplify-nutritionplanner-dev-155056-unauthRole",
+      "StackName": "amplify-nutritionplanner-dev-155056",
+      "StackId": "arn:aws:cloudformation:eu-west-2:684100017705:stack/amplify-nutritionplanner-dev-155056/7a7af1a0-4924-11eb-8b90-06f2f09a77ae",
+      "AmplifyAppId": "d2n1ot2n8hrasd"
+    },
+    "categories": {
+      "auth": {
+        "nutritionplannere2027003": {}
+      }
+    }
+  }
+}
