@@ -1,8 +1,8 @@
 {
-    "identityPoolName": "nutritionplannere2027003_identitypool_e2027003",
+    "identityPoolName": "nutritionplanner63c7b2a8_identitypool_63c7b2a8",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "nutrite2027003",
-    "userPoolName": "nutritionplannere2027003_userpool_e2027003",
+    "resourceNameTruncated": "nutrit63c7b2a8",
+    "userPoolName": "nutritionplanner63c7b2a8_userpool_63c7b2a8",
     "autoVerifiedAttributes": [
         "email"
     ],
@@ -28,10 +28,10 @@
     "userpoolClientReadAttributes": [
         "email"
     ],
-    "userpoolClientLambdaRole": "nutrite2027003_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "nutrit63c7b2a8_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "e2027003",
-    "resourceName": "nutritionplannere2027003",
+    "sharedId": "63c7b2a8",
+    "resourceName": "nutritionplanner63c7b2a8",
     "authSelections": "identityPoolAndUserPool",
     "authRoleArn": {
         "Fn::GetAtt": [
